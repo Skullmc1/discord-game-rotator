@@ -1,0 +1,7 @@
+# Build output
+*.exe
+
+# Runtime files created next to the exe
+detectable.json
+rotation.txt
+games/
