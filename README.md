@@ -1,4 +1,4 @@
-# Discord Game Rotator
+﻿# Discord Game Rotator
 
 **Can be used to complete Discord Quests and grind the new badges, but use at your own risk.**
 
@@ -56,7 +56,3 @@ These are created next to the exe and are ignored by git:
 | `detectable.json` | Cached copy of Discord's detectable games list |
 | `rotation.txt` | Application IDs of the games in your rotation |
 | `games\` | Renamed copies of the exe, one per game |
-
-## Disclaimer
-
-This project is not affiliated with or endorsed by Discord. Using it to complete Discord Quests or earn rewards is against Discord's Terms of Service and may get your account flagged or banned. Use it at your own risk.
