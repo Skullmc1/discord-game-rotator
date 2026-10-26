@@ -1,5 +1,7 @@
 # Discord Game Rotator
 
+**Can be used to complete Discord Quests and grind the new badges, but use at your own risk.**
+
 A small Windows app that makes Discord think you are playing games, and switches to a different game every few seconds (5 by default).
 
 It does not download or run any real games. It launches a tiny placeholder program renamed to match a game's executable, which is what Discord's game detection looks for.
